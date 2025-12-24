@@ -1,8 +1,9 @@
+
 module.exports.config = {
   name: "aotoreact",
     version: "2.0.0",
-      permission: 0,
-        credits: "Nayan",
+      permission: 0
+       credits: "Nayan",
           description: "..",
             prefix: false,
               category: "...",
